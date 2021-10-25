@@ -1023,6 +1023,11 @@
     -->
     <country iso="pe" allowed="true" />
 
+   <!--- Enable for Pakistan
+         No clear definition exists on the matter of call recordings being made by one side.
+    -->
+    <country iso="pk" allowed="true" />
+
     <!-- Enable recording for Poland:
          Article 267 of the Polish Penal Code defines call recording as legal for private citizens,
          when the recording is made by a party to the call.
